@@ -1,1 +1,12 @@
-/* Add CSS Styling */
+.botao{
+    font-size: 28px;
+    font-family: Helvetica, "Times New roman", sans-serif;
+}
+.primeiro{
+    background-color: black;
+    color: white;
+}
+
+.segundo{
+    background-color: rgb(255, 255, 0);
+}
